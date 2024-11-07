@@ -33,12 +33,16 @@
     }
   ],
   "EXPLORE": [
-    { "total": 2 },
+    { "total": 3 },
     {
       "KEY": [
         {
           "name": "What is HOT Protocol",
           "keyword": "SIGN"
+        },
+        {
+          "name": "About crazy crypto stories",
+          "keyword": "IMAGINATION"
         },
         {
           "name": "About crazy crypto stories",
