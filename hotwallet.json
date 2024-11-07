@@ -1,12 +1,34 @@
 {
-    "tasks": [
-      {
-        "id": "What is HOT Protocol",
-        "keyword": "SIGN"
-      },
-        {
-        "id": "About crazy crypto stories",
-        "keyword": "IMAGINATION"
-      }
-    ]
-  }
+  "TON": [
+    { "total": "1" },
+    {
+      "id": "What is HOT Protocol",
+      "keyword": "SIGN"
+    }
+  ],
+  "BNB": [
+    { "total": "1" },
+    {
+      "id": "What is HOT Protocol",
+      "keyword": "SIGN"
+    }
+  ],
+  "SOLANA": [
+    { "total": "1" },
+    {
+      "id": "What is HOT Protocol",
+      "keyword": "SIGN"
+    }
+  ],
+  "EXPLORE": [
+    { "total": "2" },
+    {
+      "id": "What is HOT Protocol",
+      "keyword": "SIGN"
+    },
+    {
+      "id": "About crazy crypto stories",
+      "keyword": "IMAGINATION"
+    }
+  ]
+}
